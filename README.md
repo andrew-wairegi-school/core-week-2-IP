@@ -17,7 +17,7 @@ Then I will evaluate it, & the solution.
 2. Setup the folder as a local repository
 3. Clone the remote repository into the local repository (using the github link)
 4. Open the collaboratory notebook
-5. Upload the file to the collaboratory file upload section
+5. Upload the dataset file to the collaboratory file upload section
 6. Run the notebook
 
 ## Known Bugs
